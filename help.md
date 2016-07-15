@@ -10,6 +10,6 @@ The phrase entered will then be used to find the most frequently used combinatio
 
 **Note:** Please note that the app may take some time to display the first prediction as data needs to be loaded on server before executing the search algorithm.  
   
-Source code for the app - ui.R and server.R files are available on the [GitHub](https://github.com/madhuri333/ShinyApp).    
+Source code for the app - ui.R and server.R files are available on the [GitHub](https://github.com/madhuri333/Next_Word_Predictor).    
 
 Data Courtesy: *Swift Key*.
